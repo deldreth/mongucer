@@ -1,0 +1,19 @@
+{
+  "name": "monducer",
+  "version": "1.0.0",
+  "description": "A really simple typescript based function for programatic redux reducer generation.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "reducer"
+  ],
+  "author": "Devin Eldreth",
+  "license": "MIT",
+  "devDependencies": {
+    "redux": "^3.7.2"
+  }
+}
